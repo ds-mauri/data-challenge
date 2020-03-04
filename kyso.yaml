@@ -1,0 +1,7 @@
+title: "My awesome post"
+description: "This is a description of what I did in my awesome post"
+branch: master
+main: aa.ipynb
+tags:
+  - apples
+  - oranges
